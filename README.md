@@ -2,14 +2,22 @@
 
 🚀 About Me:
 - 
---😄 Pronouns: She/Her
+-😄 Pronouns: She/Her
+
 -🎓 Pursuing Computer Science and Engineering at AURCM
+
 -💻 Passionate about Web Development, AI, and Blockchain
+
 -📌 Currently working on CheckMate (Cheque Processing App) & Fake Drug Detection using Blockchain
+
 -🎯 Preparing for TCS NQT & DSA/OOP Mastery
+
 -💡 Interested in Disney Careers & Anime Chatbots
+
 -🌱 I’m currently learning DSA
+
 -📫 How to reach me: https://www.linkedin.com/in/hema-vadivelmurugan/
+
 -⚡ Fun Fact: I love practicing Silambam, watching anime & reading  storybooks! 📖✨
 
 🔧 Tech Stack:
