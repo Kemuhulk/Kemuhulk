@@ -2,7 +2,7 @@
 
 🚀 About Me:
 - 
--😄 Pronouns: She/Her
+--😄 Pronouns: She/Her
 -🎓 Pursuing Computer Science and Engineering at AURCM
 -💻 Passionate about Web Development, AI, and Blockchain
 -📌 Currently working on CheckMate (Cheque Processing App) & Fake Drug Detection using Blockchain
