@@ -14,7 +14,7 @@
 
 🔧 Tech Stack:
 -
-🐍 Python | ☕ Java | 🌐 HTML, CSS, JavaScript | 🎨 Figma | 🏗️ Streamlit | PostgreSQL | Hyperledger Fabric | Docker
+🐍 Python | ☕ Java | 🌐 HTML, CSS, JavaScript, React | 🎨 Figma | 🏗️ Streamlit | PostgreSQL | MongoDB | Hyperledger Fabric | Docker
   
 <!--
 **Kemuhulk/Kemuhulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
